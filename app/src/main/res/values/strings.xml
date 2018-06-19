@@ -6,4 +6,13 @@
     <string name="correct_answer_goes_here">Correct Answer Goes Here</string>
     <string name="third_wrong_answer">Third Wrong Answer</string>
     <string name="save_question">Save Question</string>
+    <string name="add_question">Add Question</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="delete_quiz">Delete Quiz</string>
+    <string name="question">Question</string>
+    <string name="answer_2">Answer #2</string>
+    <string name="answer_1">Answer #1</string>
+    <string name="answer_3">Answer #3</string>
+    <string name="answer_4">Answer #4</string>
+    <string name="next">Next</string>
 </resources>

@@ -7,7 +7,6 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.EditText;
 
 import butterknife.BindView;
@@ -16,7 +15,7 @@ import butterknife.OnClick;
 
 public class QuestionCreatorFragment extends Fragment {
 
-    @BindView(R.id.question_edittext)
+    @BindView(R.id.create_question_edittext)
     protected EditText question;
 
     @BindView(R.id.correct_asnwer_edittext)
